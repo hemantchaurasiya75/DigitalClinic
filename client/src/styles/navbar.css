@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #b0afac;
+    padding:5px;
+}
+
+.footer{
+    background-color: #b0afac;
+    padding:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
